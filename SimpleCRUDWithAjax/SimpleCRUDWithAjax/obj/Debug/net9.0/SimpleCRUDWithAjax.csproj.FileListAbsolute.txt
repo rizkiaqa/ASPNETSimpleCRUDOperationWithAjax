@@ -1,0 +1,975 @@
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\appsettings.Development.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\appsettings.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.staticwebassets.runtime.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.staticwebassets.endpoints.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.exe
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.deps.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.runtimeconfig.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.pdb
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Azure.Core.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Azure.Identity.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Humanizer.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.ClientModel.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.CodeDom.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Memory.Data.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Text.Json.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.csproj.AssemblyReference.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.GeneratedMSBuildEditorConfig.editorconfig
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.AssemblyInfoInputs.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.AssemblyInfo.cs
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.csproj.CoreCompileInputs.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.MvcApplicationPartsAssemblyInfo.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.RazorAssemblyInfo.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.RazorAssemblyInfo.cs
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\bundle\SimpleCRUDWithAjax.styles.css
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\projectbundle\SimpleCRUDWithAjax.bundle.scp.css
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tmi05abr3l-b9sayid5wm.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\izii8hw0ye-61n19gt1b8.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yosao3poxn-xtxxf3hu2r.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ffp22erd3g-bqjiyaj88i.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\c1vvfyalv3-c2jlpeoesf.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\e1u8w9kk5n-erw9l3u2r3.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\r5dfhroebh-aexeepp0ev.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\kenoxvkmdi-d7shbmvgxk.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\mtxbuh7pjq-ausgxo2sd3.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\b8d30lu0xv-k8d9w2qqmf.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\60a84ch316-cosvhxvwiu.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\xot98fig4u-ub07r2b239.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\acn1mx6d2o-fvhpjtyr6v.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tk3i47h75f-b7pk76d08c.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hbecsuw07x-fsbi9cje9m.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\67ryh305wt-rzd6atqjts.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4k511m9qjr-ee0r1s7dh0.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\eemtudqldl-dxx9fxp4il.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\sxsrryf2pu-jd9uben2k1.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\l3ubcut22k-khv3u5hwcm.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i68buqxnfx-r4e9w2rdcm.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hdt60tb56a-lcd1t2u6c8.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ts1w1a0tbm-c2oey78nd0.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yivd9tz1ff-tdbxkamptv.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\cdzmyvx0ol-j5mq2jizvt.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tng2ao108x-06098lyss8.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\muw7af9qjs-nvvlpmu67g.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\n4wrntmlo8-s35ty4nyc5.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\5svyt2tysu-pj5nd1wqec.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\z5dwmckvpf-46ein0sx1k.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i7tlpk1ruf-v0zj4ognzu.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\191xgbizye-37tfw0ft22.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\opka2yr2f4-hrwsygsryq.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\n9e3wr0agn-pk9g2wxc8p.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\irpz53k6r8-ft3s53vfgj.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4l4gyjkulj-6cfz1n2cew.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i1zl5kqz34-6pdc2jztkx.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\23chw7875p-493y06b0oq.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3lrdm2ervg-iovd86k7lj.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\jh3rrcgd19-vr1egmr9el.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yuwkv435oy-kbrnm935zg.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\r5g4atv5fe-jj8uyg4cgr.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3ic6s08312-y7v9cxd14o.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3i9krxsado-notf2xhcfb.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\mn5pm75rwp-h1s4sie4z3.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\bnij0ckftb-63fj8s7r0e.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\xzkk2qe1t7-0j3bgjxly4.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\an6x59nov8-47otxtyo56.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\huxlwwod9s-4v8eqarkd7.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\up5ef7nwau-356vix0kms.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4f7y9tofm5-83jwlth58m.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\bdylouznhb-mrlpezrjn3.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\diljrdt1j7-lzl9nlhx6b.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\sydsxlrqno-ag7o75518u.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ggtx3wzrk4-x0q3zqp4vz.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\5d9hen9469-0i3buxo5is.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\s8b0skqxza-o1o13a6vjx.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\al6h66xmhw-ttgo8qnofa.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\s1lhujl8sn-2z0ns9nrw6.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\2aekkj6dyb-muycvpuwrr.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hgy4g7ezmd-87fc7y1x7t.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ij93u43rr4-mlv21k5csn.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\d3epnzy3la-j37vat1365.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yjfupeqcs0-j37vat1365.gz
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.build.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.development.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssets.props
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.build.SimpleCRUDWithAjax.props
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SimpleCRUDWithAjax.props
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SimpleCRUDWithAjax.props
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.pack.json
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCR.7AEC820C.Up2Date
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\refint\SimpleCRUDWithAjax.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.pdb
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.genruntimeconfig.cache
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\ref\SimpleCRUDWithAjax.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Common.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Configuration.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Frameworks.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.LibraryModel.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Packaging.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.ProjectModel.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Protocol.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Versioning.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\af\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ar\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\az\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\bg\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\da\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\el\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fa\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\he\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hr\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hu\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hy\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\id\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\is\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ku\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\lv\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\mt\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nb\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nl\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ro\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sk\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sl\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sr\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sv\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uk\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\vi\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\users\RizkiAL-QanunAPTMII\SourceCode\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\appsettings.Development.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.staticwebassets.endpoints.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\appsettings.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.staticwebassets.runtime.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.exe
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.deps.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.runtimeconfig.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\SimpleCRUDWithAjax.pdb
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Azure.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Azure.Identity.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Humanizer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Common.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.ClientModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.CodeDom.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Memory.Data.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\System.Text.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.csproj.AssemblyReference.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.AssemblyInfoInputs.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.AssemblyInfo.cs
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.csproj.CoreCompileInputs.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.MvcApplicationPartsAssemblyInfo.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.RazorAssemblyInfo.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.RazorAssemblyInfo.cs
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.sourcelink.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\bundle\SimpleCRUDWithAjax.styles.css
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\scopedcss\projectbundle\SimpleCRUDWithAjax.bundle.scp.css
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tmi05abr3l-b9sayid5wm.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\izii8hw0ye-61n19gt1b8.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ffp22erd3g-bqjiyaj88i.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\c1vvfyalv3-c2jlpeoesf.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\e1u8w9kk5n-erw9l3u2r3.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\r5dfhroebh-aexeepp0ev.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\kenoxvkmdi-d7shbmvgxk.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\mtxbuh7pjq-ausgxo2sd3.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\b8d30lu0xv-k8d9w2qqmf.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\60a84ch316-cosvhxvwiu.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\xot98fig4u-ub07r2b239.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\acn1mx6d2o-fvhpjtyr6v.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tk3i47h75f-b7pk76d08c.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hbecsuw07x-fsbi9cje9m.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\67ryh305wt-rzd6atqjts.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4k511m9qjr-ee0r1s7dh0.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\eemtudqldl-dxx9fxp4il.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\sxsrryf2pu-jd9uben2k1.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\l3ubcut22k-khv3u5hwcm.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i68buqxnfx-r4e9w2rdcm.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hdt60tb56a-lcd1t2u6c8.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ts1w1a0tbm-c2oey78nd0.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yivd9tz1ff-tdbxkamptv.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\cdzmyvx0ol-j5mq2jizvt.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\tng2ao108x-06098lyss8.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\muw7af9qjs-nvvlpmu67g.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\n4wrntmlo8-s35ty4nyc5.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\5svyt2tysu-pj5nd1wqec.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\z5dwmckvpf-46ein0sx1k.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i7tlpk1ruf-v0zj4ognzu.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\191xgbizye-37tfw0ft22.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\opka2yr2f4-hrwsygsryq.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\n9e3wr0agn-pk9g2wxc8p.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\irpz53k6r8-ft3s53vfgj.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4l4gyjkulj-6cfz1n2cew.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\i1zl5kqz34-6pdc2jztkx.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\23chw7875p-493y06b0oq.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3lrdm2ervg-iovd86k7lj.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\jh3rrcgd19-vr1egmr9el.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yuwkv435oy-kbrnm935zg.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\r5g4atv5fe-jj8uyg4cgr.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3ic6s08312-y7v9cxd14o.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\3i9krxsado-notf2xhcfb.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\mn5pm75rwp-h1s4sie4z3.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\bnij0ckftb-63fj8s7r0e.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\xzkk2qe1t7-0j3bgjxly4.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\an6x59nov8-47otxtyo56.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\huxlwwod9s-4v8eqarkd7.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\up5ef7nwau-356vix0kms.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\4f7y9tofm5-83jwlth58m.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\bdylouznhb-mrlpezrjn3.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\diljrdt1j7-lzl9nlhx6b.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\sydsxlrqno-ag7o75518u.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ggtx3wzrk4-x0q3zqp4vz.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\5d9hen9469-0i3buxo5is.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\s8b0skqxza-o1o13a6vjx.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\al6h66xmhw-ttgo8qnofa.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\s1lhujl8sn-2z0ns9nrw6.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\2aekkj6dyb-muycvpuwrr.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\hgy4g7ezmd-87fc7y1x7t.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\ij93u43rr4-mlv21k5csn.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\d3epnzy3la-j37vat1365.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yjfupeqcs0-j37vat1365.gz
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.build.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.development.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.build.SimpleCRUDWithAjax.props
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SimpleCRUDWithAjax.props
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SimpleCRUDWithAjax.props
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.pack.json
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCR.7AEC820C.Up2Date
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\refint\SimpleCRUDWithAjax.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.pdb
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.genruntimeconfig.cache
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\ref\SimpleCRUDWithAjax.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.Session.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.StaticAssets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.CSharp.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Features.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Hosting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Http.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Localization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.JSInterop.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Net.Http.Headers.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.VisualBasic.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.VisualBasic.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Win32.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\Microsoft.Win32.Registry.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\mscorlib.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\netstandard.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.AppContext.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Buffers.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Collections.Concurrent.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Collections.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Collections.Immutable.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Collections.NonGeneric.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Collections.Specialized.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.Annotations.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ComponentModel.TypeConverter.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Configuration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Console.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Core.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Data.Common.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Data.DataSetExtensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Data.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.Contracts.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.Debug.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.EventLog.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.Process.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.StackTrace.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.Tools.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.TraceSource.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Diagnostics.Tracing.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Drawing.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Drawing.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Dynamic.Runtime.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Formats.Tar.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Globalization.Calendars.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Globalization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Globalization.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Compression.Brotli.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Compression.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Compression.FileSystem.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Compression.ZipFile.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.FileSystem.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.FileSystem.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.FileSystem.Watcher.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.IsolatedStorage.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.MemoryMappedFiles.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Pipelines.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Pipes.AccessControl.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.Pipes.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Linq.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Linq.Expressions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Linq.Parallel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Linq.Queryable.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Memory.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Http.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Http.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.HttpListener.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Mail.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.NameResolution.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.NetworkInformation.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Ping.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Quic.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Requests.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Security.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.ServicePoint.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.Sockets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.WebClient.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.WebHeaderCollection.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.WebProxy.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.WebSockets.Client.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Net.WebSockets.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Numerics.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Numerics.Vectors.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ObjectModel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.DispatchProxy.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Emit.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Metadata.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Reflection.TypeExtensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Resources.Reader.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Resources.ResourceManager.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Resources.Writer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Handles.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.InteropServices.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Intrinsics.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Loader.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Numerics.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Serialization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Serialization.Json.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Runtime.Serialization.Xml.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.AccessControl.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Claims.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Cng.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Csp.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Encoding.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Primitives.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Cryptography.Xml.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Principal.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.Principal.Windows.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Security.SecureString.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ServiceModel.Web.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ServiceProcess.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Text.Encoding.CodePages.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Text.Encoding.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Text.Encoding.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Text.Encodings.Web.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Text.RegularExpressions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Channels.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Overlapped.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.RateLimiting.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Tasks.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Tasks.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Tasks.Parallel.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Thread.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.ThreadPool.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Threading.Timer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Transactions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Transactions.Local.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.ValueTuple.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Web.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Web.HttpUtility.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Windows.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.Linq.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.ReaderWriter.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.Serialization.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.XDocument.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.XmlDocument.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.XmlSerializer.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.XPath.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\System.Xml.XPath.XDocument.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\refs\WindowsBase.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\SimpleCRUDWithAjax.MvcApplicationPartsAssemblyInfo.cs
+D:\All Source Code Project\TutorialCreation\ASPNETSimpleCRUDOperationWithAjax\SimpleCRUDWithAjax\SimpleCRUDWithAjax\obj\Debug\net9.0\compressed\yosao3poxn-xtxxf3hu2r.gz

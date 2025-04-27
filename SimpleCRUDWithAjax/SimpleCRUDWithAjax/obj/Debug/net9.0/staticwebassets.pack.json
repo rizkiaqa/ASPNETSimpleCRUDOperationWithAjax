@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SimpleCRUDWithAjax.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleCRUDWithAjax.j37vat1365.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\Ome TV Banned.png",
+      "PackagePath": "staticwebassets\\uploads\\Ome TV Banned.png"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\Project Staging Flowchart (4).pdf",
+      "PackagePath": "staticwebassets\\uploads\\Project Staging Flowchart (4).pdf"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\Screenshot 2023-01-28 141906.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-01-28 141906.png"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\beef steak.jpg27232025062385",
+      "PackagePath": "staticwebassets\\uploads\\beef steak.jpg27232025062385"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\beef steak27062025070626.jpg",
+      "PackagePath": "staticwebassets\\uploads\\beef steak27062025070626.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\beef steak27062025070695.jpg",
+      "PackagePath": "staticwebassets\\uploads\\beef steak27062025070695.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\beef steak27282025062833.jpg",
+      "PackagePath": "staticwebassets\\uploads\\beef steak27282025062833.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\beef steak27382025063833.jpg",
+      "PackagePath": "staticwebassets\\uploads\\beef steak27382025063833.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\fish fillet27092025070952.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fish fillet27092025070952.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\fish fillet27142025071464.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fish fillet27142025071464.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\fish fillet27582025065806.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fish fillet27582025065806.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\fish fillet27582025065889.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fish fillet27582025065889.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\jelly27362025063665.jpg",
+      "PackagePath": "staticwebassets\\uploads\\jelly27362025063665.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27072025070711.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27072025070711.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27072025070712.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27072025070712.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27072025070783.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27072025070783.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27072025070789.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27072025070789.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27142025071467.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27142025071467.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\noodle27502025065032.jpg",
+      "PackagePath": "staticwebassets\\uploads\\noodle27502025065032.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\pizza27122025071289.jpg",
+      "PackagePath": "staticwebassets\\uploads\\pizza27122025071289.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\strobery juice27332025063330.jpg",
+      "PackagePath": "staticwebassets\\uploads\\strobery juice27332025063330.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\sushi27052025070545.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sushi27052025070545.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\sushi27052025070560.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sushi27052025070560.jpg"
+    },
+    {
+      "Id": "D:\\All Source Code Project\\TutorialCreation\\ASPNETSimpleCRUDOperationWithAjax\\SimpleCRUDWithAjax\\SimpleCRUDWithAjax\\wwwroot\\uploads\\sushi27052025070575.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sushi27052025070575.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SimpleCRUDWithAjax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SimpleCRUDWithAjax.props",
+      "PackagePath": "build\\SimpleCRUDWithAjax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleCRUDWithAjax.props",
+      "PackagePath": "buildMultiTargeting\\SimpleCRUDWithAjax.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SimpleCRUDWithAjax.props",
+      "PackagePath": "buildTransitive\\SimpleCRUDWithAjax.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

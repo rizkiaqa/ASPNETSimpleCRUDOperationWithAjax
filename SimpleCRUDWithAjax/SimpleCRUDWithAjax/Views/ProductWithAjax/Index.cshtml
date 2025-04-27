@@ -1,0 +1,182 @@
+﻿@{ViewData["Title"] = "Product Management"; }
+
+
+<h2>Product Management</h2>
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalCreate" onclick="clearFormAdd()">Add Product</button>
+
+<table id="productTable" class="table align-middle">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th width="300">Description</th>
+            <th>Stock</th>
+            <th>Price</th>
+            <th>Picture</th>
+            <th>Active</th>
+            <th>Expired Date</th>
+            <th width="300">Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@Html.Partial("_ModalCreate")
+@Html.Partial("_ModalEdit")
+@Html.Partial("_ModalDetails")
+@Html.Partial("_ModalDelete")
+
+@section Scripts {
+    <script type="text/javascript">
+             function formatDate(dateString) {
+                 const date = new Date(dateString);
+                 const options = { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
+                 return new Intl.DateTimeFormat('en-GB', options).format(date).replace(',', '');
+               }
+                function clearFormAdd() {
+                    $("#modalCreate input[name='Name']").val(null);
+                    $("#modalCreate textarea[name='Description']").val(null);
+                    $("#modalCreate input[name='Stock']").val(null);
+                    $("#modalCreate input[name='Price']").val(null);
+                    $("#modalCreate input[name='Image']").val(null);
+                    $("#modalCreate input[name='Active']").prop("checked",false);
+                    $("#modalCreate input[name='ExpiredDate']").val(null);
+                }
+
+                $(document).ready(function () {
+
+                    $('#btnSaveCreate').on('click', function () {
+                        var theForm = $("#formCreate");
+                        if (theForm.valid() == false) {
+                            alert("The Mandatory Form must be filled");
+                            return;
+                        }
+                        var formData = new FormData(theForm[0]);
+                        $.ajax({
+                            url: '/ProductWithAjax/Create',
+                            type: 'POST',
+                            processData: false, // Prevent jQuery from processing data
+                            contentType: false, // Prevent jQuery from setting content type
+
+                            data: formData,
+                            success: function (result) {
+                                alert(result.message);
+                                loadStudents();
+                                $("#modalCreate").modal('hide');
+                            }
+                        });
+                    });
+
+                    function loadStudents() {
+                        $.ajax({
+                            url: '/ProductWithAjax/GetProduct',
+                            type: 'GET',
+                            success: function (data) {
+                                var rows = '';
+                                $.each(data, function (i, student) {
+                                    rows += '<tr>';
+                                    rows += '<td>' + student.name + '</td>';
+                                    rows += '<td>' + student.description + '</td>';
+                                    rows += '<td>' + student.stock + '</td>';
+                                    rows += '<td>' + student.price + '</td>';
+                                    rows += '<td><img src="' + student.filePath + '" alt="img" height="100" width="100"></td>';
+                                    rows += '<td>' + student.active + '</td>';
+                                    rows += '<td>' + formatDate(student.expiredDate) + '</td>';
+                                    rows += '<td><button class="btnEdit btn btn-warning" data-id="' + student.id + '">Edit</button> <button class="btnDelete btn btn-danger" data-id="' + student.id + '">Delete</button> <button class="btnDetail btn btn-info" data-id="' + student.id + '">Detail</button></td>';
+                                    rows += '</tr>';
+                                });
+                                $('#productTable tbody').html(rows);
+
+                                initFunction();
+                            }
+                        });
+                    }
+
+                    function initFunction() {
+                        $(".btnDetail").click(function () {
+                            var dataId = $(this).data("id");
+                            $.ajax({
+                                url: '/ProductWithAjax/GetProductById',
+                                type: 'GET',
+                                data: { Id: dataId },
+                                success: function (result) {
+                                    $("#detailId").text(dataId);
+                                    $("#detailName").text(result.name);
+                                    $("#detailDescription").text(result.description);
+                                    $("#detailPrice").text(result.price);
+                                    $("#detailStock").text(result.stock);
+                                    $("#detailActive").text(result.active);
+                                    $("#detailExpiredDate").text(result.expiredDate);
+                                    $("#detailImage").prop('src', result.filePath);
+
+                                    $("#modalDetail").modal('show');
+                                }
+                            });
+                        });
+
+                        $(".btnEdit").click(function () {
+                            var dataId = $(this).data("id");
+                            $.ajax({
+                                url: '/ProductWithAjax/GetProductById',
+                                type: 'GET',
+                                data: { Id: dataId },
+                                success: function (result) {
+
+                                    $("#editId").val(dataId);
+                                    $("#editName").val(result.name);
+                                    $("#editDescription").val(result.description);
+                                    $("#editPrice").val(result.price);
+                                    $("#editStock").val(result.stock);
+
+                                    if(result.active === true)
+                                    {
+                                     $("#editActive").prop("checked",true);
+                                    }
+                                    else{
+                                     $("#editActive").prop("checked",false);
+                                    }
+                                    $("#editExpiredDate").val(result.expiredDate);
+                                    $("#editHiddenFilePath").val(result.filePath);
+                                    $("#modalEdit").modal('show');
+                                }
+                            });
+                        });
+
+                        $(".btnDelete").click(function () {
+                            var dataId = $(this).data("id");
+                            $.ajax({
+                                url: '/ProductWithAjax/Delete',
+                                type: 'POST',
+                                data: { Id: dataId },
+                                success: function (result) {
+                                     alert(result.message);
+                                      loadStudents();
+                                }
+                            });
+                        });
+
+                        $("#btnSaveEdit").on('click',function () {
+                        var theForm = $("#formEdit");
+                        if (theForm.valid() == false) {
+                            alert("The Mandatory Form must be filled");
+                            return;
+                        }
+                        var formData = new FormData(theForm[0]);
+
+                        $.ajax({
+                            url: '/ProductWithAjax/Edit',
+                            type: 'POST',
+                            processData: false, // Prevent jQuery from processing data
+                            contentType: false, // Prevent jQuery from setting content type
+                            data: formData,
+                            success: function (result) {
+                                alert(result.message);
+                                loadStudents();
+                                $("#modalEdit").modal('hide');
+                            }
+                        });
+                    });
+                    }
+                    loadStudents();
+                });
+    </script>
+}
